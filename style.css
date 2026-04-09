@@ -33,7 +33,7 @@ body::before {
     width: 110px;
     height: 110px;
     border-radius: 50%;
-    object-fit: cover;
+    object-fit: contain;
     border: 3px solid rgba(255, 255, 255, 0.2);
     margin: 0 auto 15px auto;
     display: block;
